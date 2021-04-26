@@ -13,9 +13,9 @@
     margin-top: 20px;
 }
 .img{
-    background-color: red;
+    /* background-color: red; */
     width: calc(100% / 3 - 20px) ;
-    border: 3px solid black;
+    /* border: 3px solid black; */
     float: left;
     position: relative;
 }
@@ -88,5 +88,13 @@
 }
 .container2{
     margin-top: 100px;
+}
+.sostenibilità-only{
+    position: absolute;
+    background: green;
+    bottom: 10px;
+    width: 80px;
+    text-align: center;
+
 }
 
