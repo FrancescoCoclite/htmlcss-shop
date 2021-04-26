@@ -46,6 +46,18 @@
     top: 5px;
     right: 0px;
     font-size: 30px;
-    color: red;
+    color: black;
     padding: 5px 20px;
     background-color: white;
+}
+.descrizione{
+    position: absolute;
+    bottom: -80px;
+    font-size: 20px;
+}
+.scritta{
+    text-transform: uppercase;
+}
+.prezzo{
+    color: red;
+}
