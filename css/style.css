@@ -9,7 +9,8 @@
     clear: both;
 }
 .container{
-    margin: 20px auto;
+    margin:auto;
+    margin-top: 20px;
 }
 .img{
     background-color: red;
@@ -60,4 +61,32 @@
 }
 .prezzo{
     color: red;
+} 
+.foto-back{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
 }
+.foto-back:hover{
+    display: none;
+}
+.foto-bmid{
+    position: absolute;
+    top: 0;
+    right: 0px;
+    width: 100%;
+    height: 100%;
+}
+.foto-bmid:hover{
+    display: none;
+}
+.verde{
+    background-color: lightgreen;
+    width: 100%;
+}
+.container2{
+    margin-top: 100px;
+}
+
